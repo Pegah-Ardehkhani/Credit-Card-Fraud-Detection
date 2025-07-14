@@ -1,3 +1,3 @@
-# Credit Card Fraud Detection 💰 ![license](https://img.shields.io/github/license/Pegah-Ardehkhani/Credit-Card-Fraud-Detection.svg)
+# Credit Card Fraud Detection 💰 ![license](https://img.shields.io/github/license/Pegah-Ardehkhani/Credit-Card-Fraud-Detection.svg) <a href="https://colab.research.google.com/drive/14Qjd2CrysCLx4K95t-r_t8fRvXMjyDbj?usp=sharing" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Credit-Card-Fraud-Detection/blob/main/Credit%20Card%20Fraud%20Detection.ipynb)
 
 https://github.com/Pegah-Ardehkhani/Credit-Card-Fraud-Detection/blob/main/Credit%20Card%20Fraud%20Detection.ipynb
