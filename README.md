@@ -3,3 +3,7 @@
 <p align="center">
   <img width="600" height="300" src="https://us1.discourse-cdn.com/flex020/uploads/jupiter/original/2X/9/9f61e0df0275246644dd8ed7b2739ffdd569d899.gif">
 </p>
+
+## Dataset 📔
+
+[Kaggle link: Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
